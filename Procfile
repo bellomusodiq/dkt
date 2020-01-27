@@ -1,0 +1,1 @@
+web: gunicorn procfile.wsgi --log-file -
